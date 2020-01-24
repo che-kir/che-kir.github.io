@@ -1,2 +1,3 @@
-# che-kir.github.io
-My blog about data science, machine learning, c++, python, and other IT-oriented things that's interested to me.
+# Что же стало известно?
+Володя не является Володей, скорее всего, его не существует.
+Роковой ошибкой Владимира стало то, что он выбрал не тот пункт в открытом голосовании.
