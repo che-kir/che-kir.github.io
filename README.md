@@ -1,3 +1,2 @@
-# Что же стало известно?
-Володя не является Володей, скорее всего, его не существует.
-Роковой ошибкой Владимира стало то, что он выбрал не тот пункт в открытом голосовании.
+# IT blog
+My blog about data science, machine learning, c++, python, and other IT-oriented things that's interested to me.
