@@ -4,6 +4,7 @@ My blog about data science, machine learning, c++, python, and other IT-oriented
 Ideas for projects:
 
 1. Text summarizing using BERT, Transformers, etc.
+1a. Dataset for this task: https://github.com/mahnazkoupaee/WikiHow-Dataset
 2. Telegram-bot with NLP (maybe with 1 point, or some another useful info)
 3. Text analyzing for fake news, or lack of information and evidence.
 
