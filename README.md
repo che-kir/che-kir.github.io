@@ -12,3 +12,5 @@ Useful links:
 
 Awesome dataset list for NLP tasks:
 https://quantumstat.com/dataset/dataset.html
+
+http://nlpprogress.com/english/summarization.html
