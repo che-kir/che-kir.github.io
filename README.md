@@ -16,3 +16,8 @@ https://quantumstat.com/dataset/dataset.html
 http://nlpprogress.com/english/summarization.html
 
 https://www.streamlit.io/
+
+Deployment process for DS/ML:
+https://martinfowler.com/articles/cd4ml.html
+
+Fast API
