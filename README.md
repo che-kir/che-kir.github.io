@@ -21,3 +21,12 @@ Deployment process for DS/ML:
 https://martinfowler.com/articles/cd4ml.html
 
 Fast API
+
+
+
+C++ notes:
+
+Interview questions quotes:
+
+I like to just have a chat to start: what do they like about C++, dislike, how it compares to other languages, do they follow newer standards, what do they think of UB. If I'm asking C++ specific coding, I've asked them to implement something like std::function.
+
