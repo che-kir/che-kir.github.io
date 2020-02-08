@@ -24,6 +24,8 @@ https://martinfowler.com/articles/cd4ml.html
 
 Fast API
 
+https://pathmind.com/wiki/open-datasets
+
 
 
 ## C++ notes:
