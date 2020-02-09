@@ -8,7 +8,7 @@ My blog about data science, machine learning, c++, python, and other IT-oriented
 1. Text summarizing using BERT, Transformers, etc.
 Dataset for this task: https://github.com/mahnazkoupaee/WikiHow-Dataset (csv file can be downloaded by link inside (590 MB) )
 2. Telegram-bot with NLP (maybe with 1 point, or some another useful info)
-3. Text analyzing for fake news, or lack of information and evidence.
+3. Text analyzing for fake news, or lack of information and evidence. (https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
 
 ## Useful links:
 
