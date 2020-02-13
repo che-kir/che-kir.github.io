@@ -26,6 +26,8 @@ Fast API
 
 https://pathmind.com/wiki/open-datasets
 
+https://www.deeplearningbook.org
+
 
 
 ## C++ notes:
