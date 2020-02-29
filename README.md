@@ -29,6 +29,9 @@ https://pathmind.com/wiki/open-datasets
 https://www.deeplearningbook.org
 
 
+## Data Science Interview Questions:
+https://twitter.com/Al_Grigor/status/1230818076578459649
+
 
 ## C++ notes:
 
