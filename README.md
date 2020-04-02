@@ -43,7 +43,7 @@ I like to just have a chat to start: what do they like about C++, dislike, how i
 ## Other useful links:
 https://codereview.stackexchange.com
 
-
+https://opensource.zalando.com/restful-api-guidelines/index.html
 
 
 
