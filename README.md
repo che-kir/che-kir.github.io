@@ -40,17 +40,45 @@ Interview questions quotes:
 I like to just have a chat to start: what do they like about C++, dislike, how it compares to other languages, do they follow newer standards, what do they think of UB. If I'm asking C++ specific coding, I've asked them to implement something like std::function.
 
 
+## Nice to have in the future:
+- Experience with any message queue services (RabbitMQ, Apache Kaffka etc).
+- DeepLearning - PyTorch, MXNet
+- Experience with Golang
+- Templates, initializer_list in different cases
+- OpenGL, DirectX
+- Docker / Kubernetes
+- Understanding of L2/L3 cache and optimization at the Microsecond level
+
 ## Other useful links:
+http://rus-linux.net/lib.php?name=/MyLDP/hard/memory/memory.html
+
 https://codereview.stackexchange.com
 
 https://opensource.zalando.com/restful-api-guidelines/index.html
 
-
-
-
-
-
-
+https://www.amazon.com/Advanced-C-Compiling-Milan-Stevanovic/dp/1430266678
 
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
+
+## Better searching in VS:
+resharper visual assist c++
+
+
+## Books
+Professional C++
+Авторы: Marc Gregoire
+
+Mastering C++ Multithreading
+Авторы: Maya Posch
+
+Professional Multicore Programming: Design and Implementation for C++ Developers
+Авторы: Cameron Hughes, Tracey Hughes
+
+C++ Multithreading Cookbook
+Авторы: Miloš Ljumović
+
+C++. Практика многопоточного программирования, Второе издание - 2020
+
+https://www.packtpub.com/free-learning
 
