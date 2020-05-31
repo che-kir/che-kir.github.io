@@ -58,6 +58,8 @@ https://opensource.zalando.com/restful-api-guidelines/index.html
 
 https://www.amazon.com/Advanced-C-Compiling-Milan-Stevanovic/dp/1430266678
 
+https://www.threadingbuildingblocks.org/docs/help/reference/containers_overview/concurrent_queue_cls.htm
+
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 
