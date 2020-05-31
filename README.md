@@ -75,6 +75,8 @@ Mastering C++ Multithreading
 Professional Multicore Programming: Design and Implementation for C++ Developers
 Авторы: Cameron Hughes, Tracey Hughes
 
+Programming multicore and many-core computing systems, Sabri Pilana and Fatos Xhafa
+
 C++ Multithreading Cookbook
 Авторы: Miloš Ljumović
 
