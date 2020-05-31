@@ -78,7 +78,8 @@ Professional Multicore Programming: Design and Implementation for C++ Developers
 C++ Multithreading Cookbook
 Авторы: Miloš Ljumović
 
-C++. Практика многопоточного программирования, Второе издание - 2020
+C++ Concurrency in Action: Practical Multithreading
+Anthony Williams
 
 https://www.packtpub.com/free-learning
 
